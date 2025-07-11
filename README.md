@@ -25,30 +25,6 @@ A Java-based Travel & Tourism Management System developed using **Core Java** an
 
 ---
 
-## 📁 Project Structure
-
-/TravelTourismSystem
-│
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── Main.java
-│ │ │ ├── Login.java
-│ │ │ ├── Booking.java
-│ │ │ ├── Customer.java
-│ │ │ └── Hotel.java
-│
-├── database/
-│ └── tourism.sql
-├── README.md
-└── LICENSE
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 How to Run
 
 1. **Clone the Repository**:
